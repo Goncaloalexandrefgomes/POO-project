@@ -28,7 +28,9 @@ namespace POO_project
             guerreiro João = new guerreiro("João", 1000, 120, 40);
  
             batanha.StartFight(Nhaça, João);
-
+ 
+            Console.ReadLine();
+ 
         }
         
     }
